@@ -1,6 +1,6 @@
 const CONFIG_HEXO = {
   HOME_BANNER_ENABLE: true,
-  HOME_BANNER_GREETINGS: ['Hi，我是一个阅读者', 'Hi，我是一个思考家', 'Hi，我是一个法律人', '欢迎来到我的博客🎉'], // 首页大图标语文字
+  HOME_BANNER_GREETINGS: ['Hi，我是一个阅读者', 'Hi，我是一个幻想家', 'Hi，我是一个法律人', '欢迎来到我的博客🎉'], // 首页大图标语文字
 
   HOME_NAV_BUTTONS: true, // 首页是否显示分类大图标按钮
   HOME_NAV_BACKGROUND_IMG_FIXED: true, // 首页背景图滚动时是否固定，true 则滚动时图片不懂； false则随鼠标滚动
@@ -9,7 +9,7 @@ const CONFIG_HEXO = {
   MENU_INDEX: true, // 显示首页
   MENU_CATEGORY: true, // 显示分类
   MENU_TAG: true, // 显示标签
-  MENU_ARCHIVE: true, // 显示归档
+  MENU_ARCHIVE: false, // 显示归档
   MENU_SEARCH: true, // 显示搜索
 
   POST_LIST_COVER: true, // 列表显示文章封面
